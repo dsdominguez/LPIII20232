@@ -5,7 +5,6 @@
 import sys
 
 def main():
-#    print(sys.argv)he
     if len(sys.argv) == 3:
         if sys.argv[1]=='1':
             hello(sys.argv[2])
